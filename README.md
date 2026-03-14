@@ -47,12 +47,8 @@ Switches: 2960, 3560 Multilayer Switch
 
 End Devices: PC, Laptop, Generic Servers
 
-📸 Topoloji Görüntüsü
-(Buraya kendi ekran görüntünü ekleyebilirsin)
 
-Nasıl Çalıştırılır?
-Cisco Packet Tracer (v8.x veya üstü) uygulamasını açın.
 
-proje_adi.pkt dosyasını içe aktarın.
+
 
 Cihazlar arasındaki bağlantıyı doğrulamak için Simulation Mode veya CLI üzerinden ping komutlarını kullanın.
