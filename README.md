@@ -47,8 +47,7 @@ Switches: 2960, 3560 Multilayer Switch
 
 End Devices: PC, Laptop, Generic Servers
 
-
-
+![Ağ Topolojisi](images/project_interface.png)
 
 
 Cihazlar arasındaki bağlantıyı doğrulamak için Simulation Mode veya CLI üzerinden ping komutlarını kullanın.
